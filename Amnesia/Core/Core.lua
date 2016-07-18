@@ -1,5 +1,3 @@
---[[ We dont need to use local, because it will make a function local, but we need it global. ]]--
-
 --[[ MetaTables ]]--
 em = FindMetaTable("Entity")
 pm = FindMetaTable("Player")
