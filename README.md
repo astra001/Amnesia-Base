@@ -8,10 +8,10 @@ Changelog
 License
 -----
 * [License](https://github.com/astra001/Amnesia-Base/blob/master/LICENSE)
-* 
+
 Installation
 -----
-Move folder to the /lua directory inside the game.
+* Move folder to the /lua directory inside the game.
 
 How To Run
 -----
