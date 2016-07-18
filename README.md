@@ -15,6 +15,6 @@ Installation
 
 How To Run
 -----
-```Lua
+```PHP
 lua_openscript_cl Amnesia/Init.lua
 ```
