@@ -15,6 +15,6 @@ Installation
 
 How To Run
 -----
-```lua
+```Lua
 lua_openscript_cl Amnesia/Init.lua
 ```
