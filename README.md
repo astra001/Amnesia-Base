@@ -18,3 +18,4 @@ How To Run
 ```PHP
 lua_openscript_cl Amnesia/Init.lua
 ```
+* You also need to know, you can't run this scripts if server doesn't allow you to.
