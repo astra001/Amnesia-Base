@@ -11,7 +11,7 @@ License
 
 Installation
 -----
-* Move folder to the /lua directory inside the game.
+* Move the "Amnesia" folder to the "GarrysMod\garrysmod\lua" (Without quotes) directory inside the game.
 
 How To Run
 -----
